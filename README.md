@@ -1,6 +1,10 @@
 # Pkmn
+Command-line pokemon team analyzer built with Elixir.
 
-**TODO: Add description**
+## Usage
+```shell
+./pkmn pikachu gallade mr-mime dusclops 
+```
 
 ## Installation
 
